@@ -1,0 +1,59 @@
+.main {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.main-image {
+background-image: url("./images/profile.jpg");
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+height: 600px;
+background-repeat: no-repeat;
+background-color: rgba(0, 0, 0, .55);
+background-blend-mode: multiply;
+}
+.myrounded {
+    border-radius: 20px;
+}
+.sacco-image {
+    background-image: url("./images/school.png");
+background-size: contain;
+background-position: center;
+background-repeat: no-repeat;
+background-color: rgba(255, 253, 253, 0.55);
+}
+.chat-image {
+    background-image: url("./images/chat.jpg");
+background-size: contain;
+background-position: center;
+background-repeat: no-repeat;
+background-color: rgba(255, 253, 253, 0.55);
+}
+.gotaxi-image {
+    background-image: url("./images/go\ taxi\ login.png");
+background-size: contain;
+background-position: center;
+background-repeat: no-repeat;
+background-color: rgba(255, 253, 253, 0.55);
+}
+.fulcrum-image {
+    background-image: url("./images/fulcrum.png");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+background-color: rgba(255, 253, 253, 0.55);
+}
+.file-manager-image {
+    background-image: url("./images/file\ manager\ in.png");
+background-size: contain;
+background-position: center;
+background-repeat: no-repeat;
+background-color: rgba(255, 253, 253, 0.55);
+}
+/* .chat-image {
+    background-image: url("./images/flutter-ui.png");
+background-size: contain;
+background-position: center;
+background-repeat: no-repeat;
+background-color: rgba(255, 253, 253, 0.55);
+} */
